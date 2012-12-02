@@ -1,0 +1,10 @@
+Fire 32 32
+Paralysis
+Burning @
+asd asd asd @
+Hell 32 32
+UpSpeed @
+asd asd asd @
+Cry 32 32
+@
+asd asd asd @
